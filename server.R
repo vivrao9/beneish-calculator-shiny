@@ -1,12 +1,5 @@
-##################################
-# Biodiversity in National Parks #
-# by Alessio Benedetti           #
-# server.R file                  #
-##################################
-
 library(shiny)
 library(tidyverse)
-library(rvest)
 library(rjson)
 library(ggvis)
 library(dplyr)
