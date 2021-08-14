@@ -1,0 +1,35 @@
+/*.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+ background-color: #012340;
+ color: rgb(255,255,255);
+ font-weight: bold;
+ font-size: 18px;
+}*/
+
+/*._sidebar {
+  background-color: white;
+}*/
+
+.main-sidebar .main-sidebar .sidebar .sidebar-menu .active a{
+ background-color: rgb(127, 0, 255);
+ color: white;
+ border-radius: 60px;
+ font-weight: bold;
+ font-size: 17px;
+}
+
+.sidebarBackColor {
+  background-color: white;
+}
+
+
+.pred_prob {
+  font-size: 4rem;
+  font-family: 'Source Pro Sans', Sans-Serif;
+  font-weight: 700;
+}
+
+/*#vivek-sidebar .active a {
+  background-color: white;
+  color: rgb(127, 0, 255);
+  border-radius: 6px;
+}*/
